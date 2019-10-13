@@ -26,7 +26,7 @@ img{
 }
 
 /* You can adjust single video by selecting their class name */
-.video1{
+/* .video1{
   transform: rotate(45deg);
 }
 .video2{
@@ -34,7 +34,7 @@ img{
 }
 .video3{
   transform: rotate(180deg);
-}
+} */
 
 /* Add some animation! */
 .image2{
