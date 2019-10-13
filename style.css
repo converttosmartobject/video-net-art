@@ -1,9 +1,9 @@
 body{
   /* import background image from GIPHY  */
-  background-image: url(https://www.readersdigest.ca/wp-content/uploads/sites/14/2016/05/5-new-uses-for-cotton-balls.jpg); 
+  background-image: url(https://www.readersdigest.ca/wp-content/uploads/sites/14/2016/05/5-new-uses-for-cotton-balls.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* font style */
+  font-family: "Courier New", Courier, monospace; /* font style */
   color:white;  /* font color */
 }
 
