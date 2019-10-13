@@ -37,7 +37,7 @@ img{
 } */
 
 /* Add some animation! */
-.image2{
+.image1{
   animation: animation-name 1s infinite; /* Define your animation's name and duration */
 }
 /* Use @keyframes to set animation type */
