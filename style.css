@@ -1,7 +1,7 @@
 body{
   /* import background image from GIPHY  */
-  background-image: url(https://www.readersdigest.ca/wp-content/uploads/sites/14/2016/05/5-new-uses-for-cotton-balls.jpg);
-  background-repeat: no-repeat;
+  background-image: url(http://giphygifs.s3.amazonaws.com/media/4xuVp2pfYSc5G/giphy.gif);
+  /* background-repeat: no-repeat; */
   background-size: 100%;
   font-family: "Courier New", Courier, monospace; /* font style */
   color:black;  /* font color */
