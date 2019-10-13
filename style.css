@@ -30,7 +30,7 @@ img{
   transform: rotate(45deg);
 }
 .video2{
-  transform: skew(30deg);
+  transform: rotate(90deg);
 }
 .video3{
   transform: scale(1.2);
