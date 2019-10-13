@@ -49,6 +49,22 @@ img{
     transform: translate( 100px);
   } */
   /* 100% {
-    transform: translate( 50px); */
+    transform: translate( 50px);
+   } */
+}
+
+.image2{
+  animation: animation-name 1s infinite; /* Define your animation's name and duration */
+}
+/* Use @keyframes to set animation type */
+@keyframes animation-name{
+  10% {
+    transform: translate( 20px);
   }
+  /* 50% {
+    transform: translate( 100px);
+  } */
+  /* 100% {
+    transform: translate( 50px);
+   } */
 }
