@@ -45,9 +45,9 @@ img{
   10% {
     transform: translate( 20px);
   }
-  50% {
+  /* 50% {
     transform: translate( 100px);
-  }
+  } */
   100% {
     transform: translate( 50px);
   }
